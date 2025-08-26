@@ -3,7 +3,7 @@
 This project explores Kenya's 2019 population data at the county level using Power BI, Google Colab and Python. We analyze gender distribution and population totals using pandas and matplotlib.
 
 ## 🧾 Dataset
-- **Source**: Kenya 2019 Census Data (ADM1 Level)[https://data.humdata.org/dataset/cod-ps-ken]
+- **Source**: [Kenya 2019 Census Data (ADM1 Level)](https://data.humdata.org/dataset/cod-ps-ken)
 - **Format**: `.csv` file
 - **Columns** include: ADM0_NAME	ADM0_PCODE	ADM1_NAME	ADM1_PCODE	F_TL	M_TL	T_TL	F_00_04	F_05_09	F_10_14	F_15_19	F_20_24	F_25_29	F_30_34	F_35_39	F_40_44	F_45_49	F_50_54	F_55_59	F_60_64	F_65_69	F_70_74	F_75_79	F_80_84	F_85_89	F_90_94	F_95_99	F_100Plus	F_Unstated	M_00_04	M_05_09	M_10_14	M_15_19	M_20_24	M_25_29	M_30_34	M_35_39	M_40_44	M_45_49	M_50_54	M_55_59	M_60_64	M_65_69	M_70_74	M_75_79	M_80_84	M_85_89	M_90_94	M_95_99	M_100Plus	M_Unstated	T_00_04	T_05_09	T_10_14	T_15_19	T_20_24	T_25_29	T_30_34	T_35_39	T_40_44	T_45_49	T_50_54	T_55_59	T_60_64	T_65_69	T_70_74	T_75_79	T_80_84	T_85_89	T_90_94	T_95_99	T_100Plus	T_Unstated
 
@@ -28,10 +28,13 @@ This project explores Kenya's 2019 population data at the county level using Pow
 - matplotlib
 - Power BI
 
-## 📎 How to Run
-1. Upload the Excel file to your Colab session.
-2. Run the code blocks provided in the notebook.
+## 📎 How to Run(Google Colab + Python)
+1. Upload the Excel file `ken_admpop_adm1_2019.csv` to your Colab session.
+2. Run the code blocks provided `Kenya's population data 2019.ipynb` in the notebook.
 3. Modify visualizations as needed to explore different angles.
+
+## 📊 Power BI dashboard
+Uploaded in the files section as `Kenya Population 2019.pbix`
 
 ## 📌 Insights
 - Nairobi, Kiambu, and Nakuru lead in population.
@@ -43,11 +46,11 @@ This project explores Kenya's 2019 population data at the county level using Pow
 
 ## 📬 Contact
 For suggestions or collaboration:
-- My Email[njorogediana236@gmail.com]  
-- My LinkedIn[https://www.linkedin.com/in/marydiana-njoroge-41b236244/]
+- [My Email](njorogediana236@gmail.com)
+- [My LinkedIn](https://www.linkedin.com/in/marydiana-njoroge-41b236244/)
 
 
 ---
 
-**License**  
-This project is licensed under the MIT License.
+## License  
+This project is licensed under the [MIT License](./LICENSE).
