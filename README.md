@@ -35,6 +35,9 @@ This project explores Kenya's 2019 population data at the county level using Pow
 
 ## 📊 Power BI dashboard
 Uploaded in the files section as `Kenya Population 2019.pbix`
+**Screenshot*
+<img width="903" height="514" alt="dashboard" src="https://github.com/user-attachments/assets/6ec583ba-51d6-47ef-97df-8e949ec57a7d" />
+
 
 ## 📌 Insights
 - Nairobi, Kiambu, and Nakuru lead in population.
