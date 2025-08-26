@@ -48,6 +48,7 @@ Uploaded in the files section as `Kenya Population 2019.pbix`
 For suggestions or collaboration:
 - [My Email](njorogediana236@gmail.com)
 - [My LinkedIn](https://www.linkedin.com/in/marydiana-njoroge-41b236244/)
+- [My Portfolio Website](https://marydiananjorogeportfolio.vercel.app/)
 
 
 ---
